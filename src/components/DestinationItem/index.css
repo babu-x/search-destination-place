@@ -1,0 +1,14 @@
+.card-container {
+  list-style-type: none;
+  margin: 15px;
+}
+.destiny-image {
+  width: 250px;
+  height: 190px;
+}
+.name {
+  color: #252617;
+  font-family: 'roboto';
+  font-weight: 300;
+  font-size: 14px;
+}
